@@ -1,0 +1,12 @@
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\bin\Debug\BEst Oser CHiter 2023.exe.config
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\bin\Debug\BEst Oser CHiter 2023.exe
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\bin\Debug\BEst Oser CHiter 2023.pdb
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst Oser CHiter 2023.csproj.AssemblyReference.cache
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst Oser CHiter 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst_Oser_CHiter_2023.Form1.resources
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst_Oser_CHiter_2023.Properties.Resources.resources
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst Oser CHiter 2023.csproj.GenerateResource.cache
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst Oser CHiter 2023.csproj.CoreCompileInputs.cache
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst Oser CHiter 2023.exe
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst Oser CHiter 2023.pdb
+C:\Users\jan7s\Desktop\BEst Oser CHiter 2023\BEst Oser CHiter 2023\obj\Debug\BEst_Oser_CHiter_2023.Form2.resources
